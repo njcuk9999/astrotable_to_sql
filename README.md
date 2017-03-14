@@ -1,1 +1,1 @@
-# clean_periodogram
+# astrotable_to_sql
